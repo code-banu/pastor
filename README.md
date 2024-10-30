@@ -2,7 +2,7 @@
 Transform Rotate
 ![trick](https://github.com/user-attachments/assets/0547a2d0-99c2-431e-9cde-a90009ee8b52)
 
-- [Demo Project](https://code-banu.github.io/Gym-website/)
+- [Demo Project](https://code-banu.github.io/pastor/)
 
 - Developed by Raheleh Banam
 
